@@ -1,0 +1,2 @@
+# pg-job-queue
+Kolejka zadań w Javie na PostgreSQL (FOR UPDATE SKIP LOCKED
